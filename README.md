@@ -14,7 +14,7 @@
 - Сначала склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_логин/гомоку-бот.git
+   git clone https://github.com/h0shi-tech/Tinkoff-Hackaton.git
    cd гомоку-бот
 
 - Соберите Docker-образ:
