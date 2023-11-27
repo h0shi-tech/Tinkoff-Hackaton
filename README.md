@@ -15,7 +15,7 @@
 
    ```bash
    git clone https://github.com/h0shi-tech/Tinkoff-Hackaton.git
-   cd гомоку-бот
+   cd Tinkoff-Hackaton
 
 - Соберите Docker-образ:
 
